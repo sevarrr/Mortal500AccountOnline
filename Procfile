@@ -1,1 +1,1 @@
-worker: node jano.js
+worker: node mortal.js
