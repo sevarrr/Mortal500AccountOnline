@@ -2,7 +2,7 @@
   "version": "2.1.0",
   "main": "jano.js",
   "scripts": {
-    "start": "node jano.js"
+    "start": "node mortal.js"
   },
   "dependencies": {
     "discord.js": "11.4.2",
