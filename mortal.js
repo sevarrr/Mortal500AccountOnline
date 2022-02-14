@@ -1,6 +1,6 @@
 ////////////////// prefix wara
 const Discord = require("discord.js");
-const mortal = new Discord.Client();
+const mortal = new Discord.Client(discord.js);
 const mortal = new Discord.Client();
 const mortal = new Discord.Client();
 const mortal = new Discord.Client();
@@ -509,8 +509,8 @@ j
 
 //////////////// tokn lera da bne
 
-mortal.login("ODkxMjg3NTU4MDE1ODI3OTc4.Ygi4jw.tJK7dg7APyUcRZWxIp_ZTKAKNEs");
-mortal.login("");
+mortal.login("OTQyNTEwNjU4MDEwODkwMjYy.YgouXQ.0AEwUciJjrD3oYhetG74ZPuG8go");
+mortal.login("OTQyNTEwNjU4MDEwODkwMjYy.YgouXQ.0AEwUciJjrD3oYhetG74ZPuG8go");
 mortal.login("");
 mortal.login("");
 mortal.login("");
